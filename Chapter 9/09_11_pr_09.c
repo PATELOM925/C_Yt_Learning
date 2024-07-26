@@ -7,7 +7,7 @@ typedef struct date{
 }date;
 
 void display(date d){
-    printf("The date is: %d/%d/%d\n", d.date, d.month, d.year);
+    printf("The date is:  %d/%d/%d\n", d.date, d.month, d.year);
 }
 
 int dateCmp(date d1, date d2){
