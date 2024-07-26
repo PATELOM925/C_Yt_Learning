@@ -20,7 +20,7 @@ int main(){
      // But its valid code as it executes the func which gives  output 0
     return 0;
 }
-*/
+*/ 
 
 #include<stdio.h>
 
